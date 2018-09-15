@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/baslat"
+        android:icon="@drawable/ic_start"
+        android:title="Başlat" />
+    <item
+        android:id="@+id/duraklat"
+        android:icon="@drawable/ic_stop"
+        android:title="Duraklat" />
+    <item
+        android:id="@+id/sonlandir"
+        android:icon="@drawable/ic_sonlandir"
+        android:title="Sonlandır" />
+
+
+
+
+
+</menu>
