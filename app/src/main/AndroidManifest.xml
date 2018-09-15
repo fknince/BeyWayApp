@@ -31,7 +31,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDGpVzvGFB2GhvL_n7kC7W3MoCRTgy-rMk" />
+            android:value="Apı key" />
 
         <activity android:name=".SearchActivity" />
         <activity android:name=".Harita" />
